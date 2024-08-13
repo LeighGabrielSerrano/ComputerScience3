@@ -1,1 +1,3 @@
-#Hello_World
+- This is a sample file for my first github process in CS3
+- Please clone this repository to your repo.
+- https://github.com/LeighGabrielSerrano/ComputerScience3/edit/main/README.md
